@@ -108,3 +108,24 @@ Hello, World! 👋
 * Today, Python powers **AI, Web, Data Science, Automation**, and much more.
 
 ---
+## Application of Python Programming 
+**1. What makes Python a popular programming language?**
+
+Python comes up with a simple syntax, easy to use, extensive built-in libraries, and several packages. Its frameworks provide the facility to use for different types of projects. So all these features of Python make it a powerful and popular programming language.
+
+**2. Which Python framework is best for web development?**
+
+Django and Flask are popular frameworks for web development. Flask is a "microframework" designed for simplicity and flexibility. Flask is well-suited for developing small-scale, simple, and flexible applications as it is a lightweight framework. Flask provides the feature to create the routes of the views together above the view function.
+
+**3. What is the main purpose of OpenCV in Python?**
+
+OpenCV is mainly used for processing images like edge detection, color adjustments, and filtering, Computer vision tasks like object detection, face recognition, and motion tracking, Video processing like frame-by-frame analysis, real-time tracking, Feature extraction like keypoints, contours, and shapes.
+
+**4. How is Python used in machine learning?**
+
+Python is a highly recommended language for machine learning because of its simplicity, flexibility, and large number of libraries, which make it easier to learn from past actions and learn explicitly without programming.
+
+**5. Is Python good for game development?**
+
+Many built-in libraries in Python help to develop 2-D and 3-D games, like Pygame, Arcade, and Pyglet. So Python is viable for developing 2-dimensional games like puzzles, which are less graphically intensive.
+
