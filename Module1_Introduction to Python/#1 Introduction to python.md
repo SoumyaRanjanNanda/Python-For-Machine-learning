@@ -12,8 +12,8 @@
   * Procedural
   * Object-Oriented
   * Functional
-* Its a scripting language(A scripting language is a programming language used to write scripts—small programs that automate tasks, control other software, or add functionality—usually interpreted rather than fully compiled.)
-*  Dynamically data type ( A **dynamically typed data type** refers to a type system in which a variable’s data type is **determined automatically at runtime** rather than being explicitly declared by the programmer. This allows variables to **hold values of different types at different times**, providing flexibility but requiring careful handling to avoid type-related errors.
+* **Its a scripting language** (A scripting language is a programming language used to write scripts—small programs that automate tasks, control other software, or add functionality—usually interpreted rather than fully compiled.)
+*  **Dynamically data type** ( A **dynamically typed data type** refers to a type system in which a variable’s data type is **determined automatically at runtime** rather than being explicitly declared by the programmer. This allows variables to **hold values of different types at different times**, providing flexibility but requiring careful handling to avoid type-related errors.
 
 **Example (Python):**
 
